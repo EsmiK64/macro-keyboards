@@ -1,0 +1,442 @@
+Device
+ DeviceName: \\?\HID#VID_046D&PID_C31D&MI_01&Col03#7&107460bd&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 90FF8
+ Name: HID-compliant consumer control device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 1133
+ SubType: 49949
+ KeyboardMode: 26112
+ NumberOfFunctionKeys: 65548
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 1133
+ ProductID: 49949
+ VersionNumber: 26112
+ UsagePage: 12
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_046D&PID_C31D&MI_00#7&2837ed02&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 5B13ED
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 264
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_046D&PID_C31D&MI_01&Col01#7&107460bd&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 520F38
+ Name: HID-compliant consumer control device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 1133
+ SubType: 49949
+ KeyboardMode: 26112
+ NumberOfFunctionKeys: 65548
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 1133
+ ProductID: 49949
+ VersionNumber: 26112
+ UsagePage: 12
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\Microsoft HID RID\000D_0002\0
+ DeviceType: HID
+ DeviceHandle: 3032F
+ Name: Device is malformed unable to look up in the registry
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 0
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 131085
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 0
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 13
+ Usage: 2
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1BCF&PID_08A0&Col03#7&25d75457&1&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 1008B
+ Name: HID-compliant consumer control device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 7119
+ SubType: 2208
+ KeyboardMode: 258
+ NumberOfFunctionKeys: 65548
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 7119
+ ProductID: 2208
+ VersionNumber: 258
+ UsagePage: 12
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_01&Col03#8&156bfe12&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 10089
+ Name: HID-compliant vendor-defined device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 6700
+ SubType: 11587
+ KeyboardMode: 272
+ NumberOfFunctionKeys: 130816
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 6700
+ ProductID: 11587
+ VersionNumber: 272
+ UsagePage: 65280
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_01&Col01#8&156bfe12&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 20065
+ Name: HID-compliant consumer control device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 6700
+ SubType: 11587
+ KeyboardMode: 272
+ NumberOfFunctionKeys: 65548
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 6700
+ ProductID: 11587
+ VersionNumber: 272
+ UsagePage: 12
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_0B05&PID_19AF&MI_02#7&382c88b3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 2006B
+ Name: HID-compliant vendor-defined device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 2821
+ SubType: 6575
+ KeyboardMode: 256
+ NumberOfFunctionKeys: 10616690
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 2821
+ ProductID: 6575
+ VersionNumber: 256
+ UsagePage: 65394
+ Usage: 161
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_056A&PID_037B&Col04#7&33701dce&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 2006F
+ Name: HID-compliant digitizer
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 1386
+ SubType: 891
+ KeyboardMode: 256
+ NumberOfFunctionKeys: 65549
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 1386
+ ProductID: 891
+ VersionNumber: 256
+ UsagePage: 13
+ Usage: 1
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_056A&PID_037B&Col03#7&33701dce&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 20071
+ Name: HID-compliant pen
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 1386
+ SubType: 891
+ KeyboardMode: 256
+ NumberOfFunctionKeys: 131085
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 1386
+ ProductID: 891
+ VersionNumber: 256
+ UsagePage: 13
+ Usage: 2
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_056A&PID_037B&Col02#7&33701dce&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+ DeviceType: HID
+ DeviceHandle: 20073
+ Name: HID-compliant vendor-defined device
+
+DeviceInfo
+ Size: 32
+ Type: 2
+
+DeviceInfoKeyboard
+ Type: 1386
+ SubType: 891
+ KeyboardMode: 256
+ NumberOfFunctionKeys: 720640
+ NumberOfIndicators 0
+ NumberOfKeysTotal: 0
+
+HidInfo
+ VendorID: 1386
+ ProductID: 891
+ VersionNumber: 256
+ UsagePage: 65280
+ Usage: 10
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1130&PID_3101#8&3b248f62&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 1004D
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 264
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1BCF&PID_08A0&Col02#7&25d75457&1&0001#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 1004B
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 264
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_01&Col06#8&156bfe12&0&0005#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 10049
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 56
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_01&Col05#8&156bfe12&0&0004#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 10047
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 56
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_00#8&23be1d4&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 10045
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 264
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
+Device
+ DeviceName: \\?\HID#VID_1A2C&PID_2D43&MI_01&Col04#8&156bfe12&0&0003#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+ DeviceType: KEYBOARD
+ DeviceHandle: 10043
+ Name: HID Keyboard Device
+
+DeviceInfo
+ Size: 32
+ Type: 1
+
+DeviceInfoKeyboard
+ Type: 81
+ SubType: 0
+ KeyboardMode: 1
+ NumberOfFunctionKeys: 12
+ NumberOfIndicators 3
+ NumberOfKeysTotal: 56
+
+HidInfo
+ VendorID: 81
+ ProductID: 0
+ VersionNumber: 1
+ UsagePage: 12
+ Usage: 0
+
+=========================================================================================================
